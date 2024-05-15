@@ -3,7 +3,7 @@
  
 ## Materials
 * Slides
-* [Jupyter Notebook Exercises](/language_detection_example.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cdlib/c4l2024-ai-talk/language_detection_example.ipynb) 
+* [Jupyter Notebook Exercises](/language_detection_example.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cdlib/C4L2024-ai-talk/blob/main/language_detection_example.ipynb)
 
 ## Courses and Lectures
 
