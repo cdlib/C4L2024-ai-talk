@@ -5,6 +5,8 @@
 * [Slides](https://osf.io/7q9h5/)
 * [Jupyter Notebook Exercises](/language_detection_example.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cdlib/C4L2024-ai-talk/blob/main/language_detection_example.ipynb)
 
+* [MARC Metadata Model on HuggingFace](https://huggingface.co/cdlib/marc-match-ai)
+
 ## Courses and Lectures
 
 * [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
