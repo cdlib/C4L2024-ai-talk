@@ -2,7 +2,7 @@
 # Lessons learned: How to get traction with AI and start building 
  
 ## Materials
-* Slides
+* [Slides](https://osf.io/7q9h5/)
 * [Jupyter Notebook Exercises](/language_detection_example.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cdlib/C4L2024-ai-talk/blob/main/language_detection_example.ipynb)
 
 ## Courses and Lectures
